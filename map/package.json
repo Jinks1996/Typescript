@@ -1,0 +1,18 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/googlemaps": "^3.43.3",
+    "faker": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/faker": "^5.1.7"
+  }
+}
